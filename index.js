@@ -8,7 +8,7 @@ const endpoints = {
 
   
 
-let countryChoice = 'Geo';
+let countryChoice = 'Meria';
 fetchWeatherData(countryChoice);
 
 $('.searchIcon').click(function() {
