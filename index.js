@@ -8,7 +8,7 @@ const endpoints = {
 
   
 
-let countryChoice = 'Meria';
+let countryChoice = 'Tbilisi';
 fetchWeatherData(countryChoice);
 
 $('.searchIcon').click(function() {
