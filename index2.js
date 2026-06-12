@@ -9,7 +9,7 @@ const endpoints = {
 
   
 
-let countryChoice = 'Bardubani';
+let countryChoice = 'Simoneti';
 fetchWeatherData(countryChoice);
 
 $('.searchIcon').click(function() {
