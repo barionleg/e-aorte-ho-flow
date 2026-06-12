@@ -1,7 +1,8 @@
 const endpoints = {
   weather: {
     baseUrl: 'https://api.openweathermap.org/data/2.5/forecast',
-    apiKey: '4f944c0231428c0ac6ebf79e36eba04d'
+    apiKey: '30aa37fa622a603c8fb756be8856e590'
+    /*  '4f944c0231428c0ac6ebf79e36eba04d' */
   },
 };
 
