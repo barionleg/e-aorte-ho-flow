@@ -1,19 +1,9 @@
 const endpoints = {
   weather: {
-/*    baseUrl: 'https://api.openweathermap.org/data/2.5/forecast', */
-    baseUrl: 'https://api.openweathermap.org/data/2.5/weather?lat={41.69}&lon={44.80}&appid={API key}',
+      baseUrl: 'https://api.openweathermap.org/data/2.5/forecast',
     apiKey: '30aa37fa622a603c8fb756be8856e590'
   },
 };
-
-{ 
-  "coord": 
-  { 
-    "lon": 44.80, 
-      
-      "lat": 41.69 
-  },
-
   
 
 let countryChoice = 'Tbilisi';
