@@ -9,14 +9,14 @@ const endpoints = {
 { 
   "coord": 
   { 
-    "lon": 10.99, 
+    "lon": 44.80, 
       
-      "lat": 44.34 
+      "lat": 41.69 
   },
 
   
 
-let countryChoice = 'Simoneti';
+let countryChoice = 'Tbilisi';
 fetchWeatherData(countryChoice);
 
 $('.searchIcon').click(function() {
