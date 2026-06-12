@@ -1,3 +1,12 @@
+# from barionleg (star:2_nd; fork:1_st):
+
+   I practice to remembær from my genetic roots (grand parants) genetic code. Actually in life we call it "talant", wich are algorithm coded by our parants genetic contact = genetic sequencing. At some epoque we had same roots, offta called "King" by word "Книга" 📙 📚 on Physic Chemie Ski d'wordginal enad dialect Py_C_ckuü, by Lomonosov & Mendeleev; As we know at 10_th century was a firs book printed on so called Russia (₽_Russia, or Pi_Rubia: ПроРубиниЯ; От слова Прорубь, рубин, итд).
+   Some united scientific association existed, to associate a space map with different scientific things & also created mountines and continum (continents), or archipelages could be created by gravitational projection, like India looks like a one of Nebula ...
+
+##   barionleg_e-aorthe-h²o-flow
+   
+
+
 # Earth Flow Weather App
 
 This is the repository for the Earth Flow Weather App, a web application that provides weather information for different locations around the world. It includes the following features:
