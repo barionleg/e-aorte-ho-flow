@@ -2,14 +2,13 @@ const endpoints = {
   weather: {
     baseUrl: 'https://api.openweathermap.org/data/2.5/forecast',
     apiKey: '30aa37fa622a603c8fb756be8856e590'
-    /*  '4f944c0231428c0ac6ebf79e36eba04d' */
   },
 };
 
 
   
 
-let countryChoice = 'Georgia';
+let countryChoice = 'Geo';
 fetchWeatherData(countryChoice);
 
 $('.searchIcon').click(function() {
