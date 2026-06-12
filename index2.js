@@ -6,6 +6,13 @@ const endpoints = {
   },
 };
 
+{ 
+  "coord": 
+  { 
+    "lon": 10.99, 
+      
+      "lat": 44.34 
+  },
 
   
 
